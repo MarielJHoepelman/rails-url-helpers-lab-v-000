@@ -9,7 +9,6 @@ class StudentsController < ApplicationController
   end
 
   def active
-
   end
 
   private
